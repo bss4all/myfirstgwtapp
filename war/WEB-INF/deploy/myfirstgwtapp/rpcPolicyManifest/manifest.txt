@@ -1,0 +1,3 @@
+# Module myfirstgwtapp
+# RPC service class, partial path of RPC policy file
+com.bss.gwt.client.GreetingService, C60AC9F84828F59D519A7F259F78C431.gwt.rpc
